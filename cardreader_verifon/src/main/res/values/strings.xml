@@ -1,0 +1,9 @@
+<resources>
+    <string name="a35_pin_input">ПИН оруулна уу</string>
+    <string name="a35_label_cancel">Болих</string>
+    <string name="msg_read_card">Картаа уншуулна уу !</string>
+    <string name="close">Хаах</string>
+    <string name="transaction_success">Гүйлгээ амжилттай</string>
+    <string name="transaction_failed">Гүйлгээ амжилтгүй</string>
+    <string name="cr_done">Болсон</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0270BA</color>
+    <color name="colorPrimaryLight">#0270BA</color>
+    <color name="posButtonBackground">#fff</color>
+    <color name="posButtonText">#fff</color>
+    <color name="posButtonBackgroundDisabled">#cccccc</color>
+    <color name="posButtonTextDisabled">#888888</color>
+    <color name="colorAmount">#0f52a0</color>
+    <color name="colorWhite">#fff</color>
+
+    <color name="posSuccessTrans">#FF4CAF50</color>
+    <color name="posErrorTrans">#E04F5F</color>
+</resources>

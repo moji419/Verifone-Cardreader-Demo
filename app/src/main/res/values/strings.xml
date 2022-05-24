@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VerifonCardReader</string>
+    <string name="err_get_key">Key авхад алдаа гарлаа</string>
+    <string name="purchase_failed">Худалдан авах процесс амжилтгүй</string>
+    <string name="success">Амжилттай</string>
+    <string name="loading">Ачааллаж баЙна …</string>
+</resources>
