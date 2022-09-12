@@ -7,7 +7,7 @@ android {
 
     defaultConfig {
         applicationId "com.gerege.verifoncardreader"
-        minSdk 21
+        minSdk 22
         targetSdk 32
         versionCode 1
         versionName "1.0"
@@ -28,7 +28,7 @@ android {
 }
 
 dependencies {
-
+    implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation 'androidx.appcompat:appcompat:1.4.1'
     implementation 'com.google.android.material:material:1.6.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
@@ -40,8 +40,10 @@ dependencies {
     // Retrofit
     api 'com.squareup.retrofit2:retrofit:2.9.0'
     api 'com.squareup.retrofit2:converter-gson:2.9.0'
-
+    api 'com.google.zxing:core:3.3.3'
     implementation 'commons-codec:commons-codec:1.14' // Base64
+
+    implementation files('libs/AndroidTmsLib.aar')
 
     implementation project(':cardreader_verifon')
 }

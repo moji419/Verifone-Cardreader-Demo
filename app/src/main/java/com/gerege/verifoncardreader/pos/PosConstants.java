@@ -13,17 +13,13 @@ public class PosConstants {
     public static final String URL_TDB = "https://tdbp.gerege.mn/tdb/"; // "http://49.0.132.152:8085/tdb/";
     public static String MASTER_KEY_TDB = "FB89C1086BBC3E1A4F8AEC1C94C41929";
     public static final String MASTER_KEY = "D9E95170F125BA9BC42C075873914370";//; "FB89C1086BBC3E1A4F8AEC1C94C41929";
-    //    public static final String URL_TDB = "http://192.168.0.64:8085/tdb/";
-//    public static String MASTER_KEY_TDB = "D9E95170F125BA9BC42C075873914370";
-//    public static final String MASTER_KEY = "D9E95170F125BA9BC42C075873914370";
+
     //-----------------------------------Golomt bank---------------------- ------------------/
     public static final String URL_GOLOMT = "https://golomtpay.gerege.mn/golomt/";
     public static String MASTER_KEY_GOLOMT = "B0BF51FD8ACE52381364EFBA462A8345";
     public static String DEV_MASTER_KEY = "D9E95170F125BA9BC42C075873914370";
     //-----------------------------------State bank----------------------------------------/
-//    public static String MASTER_KEY_STATE_COM_FIRST = "07831F1CB9AD0BC26E3876CDB34FB331";
-//    public static String MASTER_KEY_STATE_COM_SECOND = "31B34F7F2CF48C5DA2C8F15464C4EA3B";
-//    public static String MASTER_KEY_STATE_COM_THIRD = "E6D91AA83B199BD934D66E80E98520A8";
+
     public static String MASTER_KEY_STATE = "D0E94ACBAE401C46F826E9193E0E79A2";
     public static final String URL_STATE = "https://sbpay.gerege.mn/state/";
     //-------------------------------------------------------------------------------------/
